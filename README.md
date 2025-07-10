@@ -16,7 +16,7 @@ Y guarda todos esos datos en un archivo `.csv`.
 
 ## 🚀 Cómo usar
 
-1. Cloná el repositorio o copiá el script `scraper.py`
+1. Cloná el repositorio o copiá el script `quotes_scraper.py`
 2. Ejecutá el script:
 
 ```bash
